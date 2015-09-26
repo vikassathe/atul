@@ -44,3 +44,11 @@ test:
  password: rss@123
  host: localhost
 
+production:
+ adapter: postgresql
+ encoding: utf8
+ database: spree_test
+ username: postgres
+ password: rss@123
+ 
+
